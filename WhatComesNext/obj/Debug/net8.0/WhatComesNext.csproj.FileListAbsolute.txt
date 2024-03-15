@@ -1,0 +1,14 @@
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\bin\Debug\net8.0\WhatComesNext.exe
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\bin\Debug\net8.0\WhatComesNext.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\bin\Debug\net8.0\WhatComesNext.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\bin\Debug\net8.0\WhatComesNext.dll
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\bin\Debug\net8.0\WhatComesNext.pdb
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\obj\Debug\net8.0\WhatComesNext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\obj\Debug\net8.0\WhatComesNext.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\obj\Debug\net8.0\WhatComesNext.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\obj\Debug\net8.0\WhatComesNext.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\obj\Debug\net8.0\WhatComesNext.dll
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\obj\Debug\net8.0\refint\WhatComesNext.dll
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\obj\Debug\net8.0\WhatComesNext.pdb
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\obj\Debug\net8.0\WhatComesNext.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\WhatComesNext\obj\Debug\net8.0\ref\WhatComesNext.dll

@@ -1,0 +1,14 @@
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\bin\Debug\net8.0\TheMakingsOfAProgrammer.exe
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\bin\Debug\net8.0\TheMakingsOfAProgrammer.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\bin\Debug\net8.0\TheMakingsOfAProgrammer.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\bin\Debug\net8.0\TheMakingsOfAProgrammer.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\bin\Debug\net8.0\TheMakingsOfAProgrammer.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\obj\Debug\net8.0\TheMakingsOfAProgrammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\obj\Debug\net8.0\TheMakingsOfAProgrammer.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\obj\Debug\net8.0\TheMakingsOfAProgrammer.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\obj\Debug\net8.0\TheMakingsOfAProgrammer.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\obj\Debug\net8.0\TheMakingsOfAProgrammer.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\obj\Debug\net8.0\refint\TheMakingsOfAProgrammer.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\obj\Debug\net8.0\TheMakingsOfAProgrammer.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\obj\Debug\net8.0\TheMakingsOfAProgrammer.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheMakingsOfAProgrammer\obj\Debug\net8.0\ref\TheMakingsOfAProgrammer.dll
