@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\obj\Debug\net8.0\ThingNamer3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\obj\Debug\net8.0\ThingNamer3000.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\obj\Debug\net8.0\ThingNamer3000.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\obj\Debug\net8.0\ThingNamer3000.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\obj\Debug\net8.0\ThingNamer3000.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\bin\Debug\net8.0\ThingNamer3000.exe
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\bin\Debug\net8.0\ThingNamer3000.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\bin\Debug\net8.0\ThingNamer3000.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\bin\Debug\net8.0\ThingNamer3000.dll
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\bin\Debug\net8.0\ThingNamer3000.pdb
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\obj\Debug\net8.0\ThingNamer3000.dll
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\obj\Debug\net8.0\refint\ThingNamer3000.dll
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\obj\Debug\net8.0\ThingNamer3000.pdb
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\obj\Debug\net8.0\ThingNamer3000.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\ThingNamer3000\obj\Debug\net8.0\ref\ThingNamer3000.dll
