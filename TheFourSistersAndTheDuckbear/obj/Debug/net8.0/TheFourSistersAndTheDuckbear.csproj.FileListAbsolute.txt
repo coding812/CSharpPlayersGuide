@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.exe
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\bin\Debug\net8.0\TheFourSistersAndTheDuckbear.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\refint\TheFourSistersAndTheDuckbear.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\TheFourSistersAndTheDuckbear.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheFourSistersAndTheDuckbear\obj\Debug\net8.0\ref\TheFourSistersAndTheDuckbear.dll

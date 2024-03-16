@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\obj\Debug\net8.0\TheVariableShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\obj\Debug\net8.0\TheVariableShop.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\obj\Debug\net8.0\TheVariableShop.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\obj\Debug\net8.0\TheVariableShop.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\obj\Debug\net8.0\TheVariableShop.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\bin\Debug\net8.0\TheVariableShop.exe
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\bin\Debug\net8.0\TheVariableShop.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\bin\Debug\net8.0\TheVariableShop.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\bin\Debug\net8.0\TheVariableShop.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\bin\Debug\net8.0\TheVariableShop.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\obj\Debug\net8.0\TheVariableShop.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\obj\Debug\net8.0\refint\TheVariableShop.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\obj\Debug\net8.0\TheVariableShop.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\obj\Debug\net8.0\TheVariableShop.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheVariableShop\obj\Debug\net8.0\ref\TheVariableShop.dll

@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.exe
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\obj\Debug\net8.0\refint\TheDominionOfKings.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheDominionOfKings\obj\Debug\net8.0\ref\TheDominionOfKings.dll
