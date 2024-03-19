@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.exe
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\obj\Debug\net8.0\refint\TheDefenseOfConsolas.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheDefenseOfConsolas\obj\Debug\net8.0\ref\TheDefenseOfConsolas.dll
