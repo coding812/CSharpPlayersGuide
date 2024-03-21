@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\bin\Debug\net8.0\Watchtower.exe
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\bin\Debug\net8.0\Watchtower.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\bin\Debug\net8.0\Watchtower.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\bin\Debug\net8.0\Watchtower.dll
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\bin\Debug\net8.0\Watchtower.pdb
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\obj\Debug\net8.0\Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\obj\Debug\net8.0\Watchtower.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\obj\Debug\net8.0\Watchtower.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\obj\Debug\net8.0\Watchtower.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\obj\Debug\net8.0\Watchtower.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\obj\Debug\net8.0\Watchtower.dll
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\obj\Debug\net8.0\refint\Watchtower.dll
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\obj\Debug\net8.0\Watchtower.pdb
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\obj\Debug\net8.0\Watchtower.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\Watchtower\obj\Debug\net8.0\ref\Watchtower.dll
