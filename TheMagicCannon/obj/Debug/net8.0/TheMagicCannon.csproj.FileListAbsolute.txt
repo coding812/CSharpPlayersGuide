@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.exe
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\bin\Debug\net8.0\TheMagicCannon.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\obj\Debug\net8.0\refint\TheMagicCannon.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\obj\Debug\net8.0\TheMagicCannon.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheMagicCannon\obj\Debug\net8.0\ref\TheMagicCannon.dll
