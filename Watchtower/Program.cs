@@ -1,5 +1,4 @@
-﻿
-Console.Write("X value: ");
+﻿Console.Write("X value: ");
 int x = Convert.ToInt32(Console.ReadLine());
 Console.Write("Y value: ");
 int y = Convert.ToInt32(Console.ReadLine());

@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.exe
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.dll
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\bin\Debug\net8.0\DiscountedInventory.pdb
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.dll
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\obj\Debug\net8.0\refint\DiscountedInventory.dll
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.pdb
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\obj\Debug\net8.0\DiscountedInventory.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\DiscountedInventory\obj\Debug\net8.0\ref\DiscountedInventory.dll
