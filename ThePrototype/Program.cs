@@ -1,6 +1,7 @@
 ﻿Console.Title = "The Prototype";
 
 // Welcome message, Set Font color to Red for Player 1
+Console.Clear();
 Console.ForegroundColor = ConsoleColor.Red;
 Console.Write("User 1, enter a number between 0 and 100: ");
 int userOnePosition = Convert.ToInt16(Console.ReadLine()); // Assign user input to userOnePosition

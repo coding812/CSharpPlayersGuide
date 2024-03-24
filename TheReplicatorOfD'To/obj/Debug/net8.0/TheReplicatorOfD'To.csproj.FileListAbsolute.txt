@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\obj\Debug\net8.0\TheReplicatorOfD'To.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\obj\Debug\net8.0\TheReplicatorOfD'To.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\obj\Debug\net8.0\TheReplicatorOfD'To.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\obj\Debug\net8.0\TheReplicatorOfD'To.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\obj\Debug\net8.0\TheReplicatorOfD'To.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\bin\Debug\net8.0\TheReplicatorOfD'To.exe
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\bin\Debug\net8.0\TheReplicatorOfD'To.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\bin\Debug\net8.0\TheReplicatorOfD'To.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\bin\Debug\net8.0\TheReplicatorOfD'To.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\bin\Debug\net8.0\TheReplicatorOfD'To.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\obj\Debug\net8.0\TheReplicatorOfD'To.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\obj\Debug\net8.0\refint\TheReplicatorOfD'To.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\obj\Debug\net8.0\TheReplicatorOfD'To.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\obj\Debug\net8.0\TheReplicatorOfD'To.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheReplicatorOfD'To\obj\Debug\net8.0\ref\TheReplicatorOfD'To.dll

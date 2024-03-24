@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\bin\Debug\net8.0\TheLawsOfFreach.exe
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\bin\Debug\net8.0\TheLawsOfFreach.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\bin\Debug\net8.0\TheLawsOfFreach.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\bin\Debug\net8.0\TheLawsOfFreach.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\bin\Debug\net8.0\TheLawsOfFreach.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\obj\Debug\net8.0\refint\TheLawsOfFreach.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheLawsOfFreach\obj\Debug\net8.0\ref\TheLawsOfFreach.dll
