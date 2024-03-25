@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheLawsOfFreach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28630d88e2b7045282da29675c2e1de5b613cb77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a2034d5250b7b813d084695e7959ad4f1bfb223")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheLawsOfFreach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheLawsOfFreach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
