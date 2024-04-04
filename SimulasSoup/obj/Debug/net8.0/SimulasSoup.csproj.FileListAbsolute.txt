@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\obj\Debug\net8.0\SimulasSoup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\obj\Debug\net8.0\SimulasSoup.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\obj\Debug\net8.0\SimulasSoup.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\obj\Debug\net8.0\SimulasSoup.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\obj\Debug\net8.0\SimulasSoup.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\bin\Debug\net8.0\SimulasSoup.exe
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\bin\Debug\net8.0\SimulasSoup.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\bin\Debug\net8.0\SimulasSoup.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\bin\Debug\net8.0\SimulasSoup.dll
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\bin\Debug\net8.0\SimulasSoup.pdb
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\obj\Debug\net8.0\SimulasSoup.dll
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\obj\Debug\net8.0\refint\SimulasSoup.dll
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\obj\Debug\net8.0\SimulasSoup.pdb
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\obj\Debug\net8.0\SimulasSoup.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\SimulasSoup\obj\Debug\net8.0\ref\SimulasSoup.dll
