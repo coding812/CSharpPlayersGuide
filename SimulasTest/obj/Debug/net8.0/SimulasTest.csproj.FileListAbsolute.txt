@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\obj\Debug\net8.0\SimulasTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\obj\Debug\net8.0\SimulasTest.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\obj\Debug\net8.0\SimulasTest.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\obj\Debug\net8.0\SimulasTest.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\obj\Debug\net8.0\SimulasTest.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\bin\Debug\net8.0\SimulasTest.exe
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\bin\Debug\net8.0\SimulasTest.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\bin\Debug\net8.0\SimulasTest.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\bin\Debug\net8.0\SimulasTest.dll
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\bin\Debug\net8.0\SimulasTest.pdb
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\obj\Debug\net8.0\SimulasTest.dll
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\obj\Debug\net8.0\refint\SimulasTest.dll
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\obj\Debug\net8.0\SimulasTest.pdb
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\obj\Debug\net8.0\SimulasTest.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\SimulasTest\obj\Debug\net8.0\ref\SimulasTest.dll
