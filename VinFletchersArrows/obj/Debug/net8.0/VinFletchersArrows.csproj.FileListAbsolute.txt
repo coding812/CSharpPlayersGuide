@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.exe
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.dll
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\bin\Debug\net8.0\VinFletchersArrows.pdb
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.dll
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\obj\Debug\net8.0\refint\VinFletchersArrows.dll
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.pdb
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\obj\Debug\net8.0\VinFletchersArrows.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\VinFletchersArrows\obj\Debug\net8.0\ref\VinFletchersArrows.dll
