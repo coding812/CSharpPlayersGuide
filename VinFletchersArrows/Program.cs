@@ -1,4 +1,6 @@
-﻿Console.Title = "Vin Fletcher's Arrows";
+﻿using System.Runtime.CompilerServices;
+
+Console.Title = "Vin Fletcher's Arrows";
 Console.Clear();
 
 // Get the user's input using the GetArrowInput method
@@ -13,14 +15,18 @@ static (Fletching, ArrowHead, float) GetArrowInput()
 {
     // Declare variables for the fletching, arrow head, and length
     // Get the user's input for the fletching and arrow head using the GetFletchingInput and GetArrowHeadInput methods
-    int length;
-    Fletching fletching = GetFletchingInput();
-    ArrowHead arrowHead = GetArrowHeadInput();
+    // Set the fletching and arrow head properties of the arrow object using getter and setter methods per Level 19 Challenge
+    Arrow Arrow = new Arrow(Fletching.plastic, ArrowHead.steel, 0);
+    Arrow.SetFletching(GetFletchingInput()); 
+    Arrow.SetArrowHead(GetArrowHeadInput());
+    // Fletching fletching = GetFletchingInput();
+    // ArrowHead arrowHead = GetArrowHeadInput();
     Console.Write("How many centimeters do you want your arrow to be? ");
-    length = Convert.ToInt16(Console.ReadLine());
+    int length = Convert.ToInt16(Console.ReadLine());
+    
     
     // return the fletching, arrow head, and length
-    return (fletching, arrowHead, length);
+    return (Arrow.GetFletching(), Arrow.GetArrowHead(), length);
 
     // Method to get the user's input for the fletching and validate input is valid or call the method again
     static Fletching GetFletchingInput()
@@ -56,23 +62,24 @@ static (Fletching, ArrowHead, float) GetArrowInput()
 // Method to calculate the cost of the arrow based on the fletching, arrow head, and length
 static float GetCost(Fletching fletching, ArrowHead arrowHead, float length)
 {
-    float fletchingPrice = fletching switch
+    Arrow Arrow = new Arrow(Fletching.plastic, ArrowHead.steel, 0);
+    float fletchingPrice = Arrow.GetFletching() switch
     {
-        Fletching.plastic => 10,
-        Fletching.turkeyFeathers => 5,
-        Fletching.gooseFeathers => 3,
+        Fletching.plastic => 10f,
+        Fletching.turkeyFeathers => 5f,
+        Fletching.gooseFeathers => 3f,
         _ => 0,
     };
 
-    float arrowHeadPrice = arrowHead switch
+    float arrowHeadPrice = Arrow.GetArrowHead() switch
     {
-        ArrowHead.steel => 10,
-        ArrowHead.wood => 3,
-        ArrowHead.obsidian => 5,
+        ArrowHead.steel => 10f,
+        ArrowHead.wood => 3f,
+        ArrowHead.obsidian => 5f,
         _ => 0,
     };
 
-    float lengthPrice = (float)(length * .05);
+    float lengthPrice = length * .05f;
 
     float totalPrice = fletchingPrice + arrowHeadPrice + lengthPrice;
 
@@ -82,16 +89,16 @@ static float GetCost(Fletching fletching, ArrowHead arrowHead, float length)
 // Method to print the arrow object
 static void PrintArrow(Arrow arrow)
 {
-    Console.WriteLine($"You have chosen a {arrow.fletching} fletching, a {arrow.arrowHead} arrow head, and a length of {arrow.length} centimeters.");
-    Console.WriteLine($"The total cost of your arrow is ${GetCost(arrow.fletching, arrow.arrowHead, arrow.length)}");
+    Console.WriteLine($"You have chosen a {arrow.GetFletching()} fletching, a {arrow.GetArrowHead()} arrow head, and a length of {arrow.GetLength()} centimeters.");
+    Console.WriteLine($"The total cost of your arrow is ${GetCost(arrow.GetFletching(), arrow.GetArrowHead(), arrow.GetLength())}");
 }
 
 // Arrow class with properties for fletching, arrow head, and length
 class Arrow
 {
-    public Fletching fletching;
-    public ArrowHead arrowHead;
-    public float length;
+    private Fletching fletching;
+    private ArrowHead arrowHead;
+    private float length;
 
     public Arrow(Fletching fletching, ArrowHead arrowHead, float length)
     {
@@ -99,6 +106,13 @@ class Arrow
         this.arrowHead = arrowHead;
         this.length = length;
     }
+
+    // Getters and setters for the fletching, arrow head, and length per Level 19 Challenge
+    public Fletching GetFletching() => fletching;
+    public ArrowHead GetArrowHead() => arrowHead;
+    public float GetLength() => length;
+    public void SetFletching(Fletching fletching) => this.fletching = fletching;
+    public void SetArrowHead(ArrowHead arrowHead) => this.arrowHead = arrowHead;
 
 }
 // Enumerations for the fletching and arrow head types

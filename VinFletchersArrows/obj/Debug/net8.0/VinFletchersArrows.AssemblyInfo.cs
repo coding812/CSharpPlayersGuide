@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VinFletchersArrows")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+873759c7e6c9c8c3eec136a7acae5d8cc56e8c89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b473c817fe63fc1d1a5feed8acf21f78a8a0e11")]
 [assembly: System.Reflection.AssemblyProductAttribute("VinFletchersArrows")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VinFletchersArrows")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
