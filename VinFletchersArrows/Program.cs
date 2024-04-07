@@ -1,17 +1,47 @@
-﻿using System.Runtime.CompilerServices;
-
-Console.Title = "Vin Fletcher's Arrows";
+﻿Console.Title = "Vin Fletcher's Arrows";
 Console.Clear();
 
-// Get the user's input using the GetArrowInput method
-(Fletching fletching, ArrowHead arrowHead, float length) = GetArrowInput();
-// Create an arrow object using the user's input
-Arrow arrow = new(fletching, arrowHead, length);
-// Print the arrow object using the PrintArrow method
-PrintArrow(arrow);
+Console.WriteLine("Welcome to Vin Fletcher's Arrow Shop!");
+Console.WriteLine();
+Console.WriteLine("We have three types of arrows available for purchase:");
+Console.WriteLine("1. Elite Arrow: Plastic fletching, Steel arrow head, 95 centimeters long");
+Console.WriteLine("2. Beginner Arrow: Goose Feathers fletching, Wood arrow head, 75 centimeters long");
+Console.WriteLine("3. Marksmen Arrow: Goose Feathers fletching, Steel arrow head, 65 centimeters long");
+Console.WriteLine("You can also create a custom arrow by choosing the fletching, arrow head, and length.");
+Console.WriteLine();
+Console.Write("Which type of arrow would you like to purchase? Enter 1, 2, 3, or 4 for a custom arrow: ");
+
+int userArrowChoice = Convert.ToInt16(Console.ReadLine());
+
+switch (userArrowChoice)
+{
+    case 1:
+        Arrow eliteArrow = Arrow.CreateEliteArrow();
+        PrintArrow(eliteArrow , userArrowChoice);
+        break;
+    case 2:
+        Arrow beginnerArrow = Arrow.CreateBeginnerArrow();
+        PrintArrow(beginnerArrow, userArrowChoice);
+        break;
+    case 3:
+        Arrow marksmenArrow = Arrow.CreateMarksmenArrow();
+        PrintArrow(marksmenArrow, userArrowChoice);
+        break;
+    case 4:
+        // Get the user's input using the GetCustomArrowInput method
+        (Fletching fletching, ArrowHead arrowHead, float length) = GetCustomArrowInput();
+        // Create an arrow object using the user's input
+        Arrow arrow = new(fletching, arrowHead, length);
+        // Print the arrow object using the PrintArrow method
+        PrintArrow(arrow, userArrowChoice);
+        break;
+    default:
+        Console.WriteLine("Invalid choice. Please enter 1, 2, 3, or 4.");
+        break;
+}
 
 // Get the user's input for the fletching, arrow head, and length of the arrow
-static (Fletching, ArrowHead, float) GetArrowInput()
+(Fletching, ArrowHead, float) GetCustomArrowInput()
 {
     // Declare variables for the fletching, arrow head, and length
     // Set the fletching and arrow head properties of the arrow object using the fletching and arrow head variables per Level 20 Challenge
@@ -54,6 +84,7 @@ static (Fletching, ArrowHead, float) GetArrowInput()
         return arrowHead;
     }
 }
+
 // Method to calculate the cost of the arrow based on the fletching, arrow head, and length
 static float GetCost(Fletching fletching, ArrowHead arrowHead, float length)
 {
@@ -82,18 +113,41 @@ static float GetCost(Fletching fletching, ArrowHead arrowHead, float length)
 }
 
 // Method to print the arrow object
-static void PrintArrow(Arrow arrow)
+static void PrintArrow(Arrow arrow, int userArrowChoice)
 {
-    Console.WriteLine($"You have chosen a {arrow.Fletching} fletching, a {arrow.ArrowHead} arrow head, and a length of {arrow.Length} centimeters.");
-    Console.WriteLine($"The total cost of your arrow is ${GetCost(arrow.Fletching, arrow.ArrowHead, arrow.Length)}");
+    Console.WriteLine();
+    switch (userArrowChoice)
+    {
+        case 1:
+            
+            Console.WriteLine("You have chosen an Elite Arrow:");
+            Console.WriteLine($"It will have a {arrow.Fletching} fletching, a {arrow.ArrowHead} arrow head, and a length of {arrow.Length} centimeters.");
+            Console.WriteLine($"The total cost of your arrow is ${GetCost(arrow.Fletching, arrow.ArrowHead, arrow.Length)}");
+            break;
+        case 2:
+            Console.WriteLine("You have chosen a Beginner Arrow:");
+            Console.WriteLine($"It will have a {arrow.Fletching} fletching, a {arrow.ArrowHead} arrow head, and a length of {arrow.Length} centimeters.");
+            Console.WriteLine($"The total cost of your arrow is ${GetCost(arrow.Fletching, arrow.ArrowHead, arrow.Length)}");
+            break;
+        case 3:
+            Console.WriteLine("You have chosen a Marksmen Arrow:");
+            Console.WriteLine($"It will have a {arrow.Fletching} fletching, a {arrow.ArrowHead} arrow head, and a length of {arrow.Length} centimeters.");
+            Console.WriteLine($"The total cost of your arrow is ${GetCost(arrow.Fletching, arrow.ArrowHead, arrow.Length)}");
+            break;
+        case 4:
+            Console.WriteLine("You have chosen a custom arrow.");
+            Console.WriteLine($"It will have a {arrow.Fletching} fletching, a {arrow.ArrowHead} arrow head, and a length of {arrow.Length} centimeters.");
+            Console.WriteLine($"The total cost of your arrow is ${GetCost(arrow.Fletching, arrow.ArrowHead, arrow.Length)}");
+            break;
+    }
 }
 
 // Arrow class with properties for fletching, arrow head, and length
 public class Arrow
 {
-    public Fletching Fletching { get; set; } = Fletching.plastic;
-    public ArrowHead ArrowHead { get; set; } = ArrowHead.steel;
-    public float Length{ get; } = 0; // Level 20 Challenge makes this a read-only property
+    public Fletching Fletching { get; }
+    public ArrowHead ArrowHead { get;}
+    public float Length{ get; } // Level 20 Challenge makes this a read-only property
 
     public Arrow(Fletching fletching, ArrowHead arrowHead, float length)
     {
@@ -101,6 +155,9 @@ public class Arrow
         this.ArrowHead = arrowHead;
         this.Length = length;
     }
+    public static Arrow CreateEliteArrow(){return new Arrow(Fletching.plastic, ArrowHead.steel, 95);}
+    public static Arrow CreateBeginnerArrow(){return new Arrow(Fletching.gooseFeathers, ArrowHead.wood, 75);}
+    public static Arrow CreateMarksmenArrow(){return new Arrow(Fletching.gooseFeathers, ArrowHead.steel, 65);}
 }
 // Enumerations for the fletching and arrow head types
 public enum Fletching { plastic, turkeyFeathers, gooseFeathers };
