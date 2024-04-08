@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.exe
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.dll
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.pdb
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.dll
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\obj\Debug\net8.0\refint\ThePoint.dll
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.pdb
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\ThePoint\obj\Debug\net8.0\ref\ThePoint.dll
