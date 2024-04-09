@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\bin\Debug\net8.0\TheCard.exe
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\bin\Debug\net8.0\TheCard.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\bin\Debug\net8.0\TheCard.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\bin\Debug\net8.0\TheCard.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\bin\Debug\net8.0\TheCard.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\obj\Debug\net8.0\TheCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\obj\Debug\net8.0\TheCard.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\obj\Debug\net8.0\TheCard.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\obj\Debug\net8.0\TheCard.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\obj\Debug\net8.0\TheCard.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\obj\Debug\net8.0\TheCard.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\obj\Debug\net8.0\refint\TheCard.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\obj\Debug\net8.0\TheCard.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\obj\Debug\net8.0\TheCard.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheCard\obj\Debug\net8.0\ref\TheCard.dll
