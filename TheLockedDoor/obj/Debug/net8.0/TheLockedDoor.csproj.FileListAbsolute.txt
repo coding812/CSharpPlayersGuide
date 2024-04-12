@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.exe
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net8.0\refint\TheLockedDoor.dll
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.pdb
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net8.0\ref\TheLockedDoor.dll
