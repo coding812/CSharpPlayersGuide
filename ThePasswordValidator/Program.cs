@@ -18,7 +18,7 @@ public class PasswordValidator
 
     public PasswordValidator(string password)
     {
-        this.Password = password;
+        Password = password;
     }
 
     public void ValidatePassword()
