@@ -4,24 +4,37 @@ Console.Clear();
 
 GameBoard game = new GameBoard();
 game.DrawBoard();
+string Winner;
 
-while (true)
+do
 {
-    PlayerMoves player = new PlayerMoves();
-    game.updateBoard(player.GetPlayerMove(player.PlayerTurn = "X"), player.PlayerTurn = "X");
-    game.updateBoard(player.GetPlayerMove(player.PlayerTurn = "O"), player.PlayerTurn = "O");
+    PlayerInput player = new PlayerInput();
+
+    game.updateBoard(player.GetPlayerMove(player.PlayerTurn = "X"), player.PlayerTurn);
+    Winner = CheckWinner.CheckWin(GameBoard.board);
+    if (Winner != null)
+    {
+        break;
+    }
+
+    game.updateBoard(player.GetPlayerMove(player.PlayerTurn = "O"), player.PlayerTurn);
+    Winner = CheckWinner.CheckWin(GameBoard.board);
 }
+while (Winner == null);
+
+Console.WriteLine($"Player {Winner} wins!");
+
 
 class GameBoard
 {
-
+    // Creates a 2D array to represent the game board
     public static string[,] board = new string[3, 3]
     {
         {"1", "2", "3"},
         {"4", "5", "6"},
         {"7", "8", "9"}
     };
-
+    // Draws the game board
     public void DrawBoard()
     {
         Console.Clear();
@@ -36,7 +49,7 @@ class GameBoard
         Console.WriteLine("         |     |      ");
         Console.WriteLine();
     }
-
+    // Updates the game board with the player's move
     public string updateBoard(int playerMove, string player)
     {
         string playerSymbol = player;
@@ -70,17 +83,19 @@ class GameBoard
                 board[2, 2] = playerSymbol;
                 break;
         }
+        // Calls the DrawBoard method to display the updated game board and returns the player's symbol
         DrawBoard();
         return player;
     }
 }
 
-class PlayerMoves
+class PlayerInput
 {
+    // Declares variables to store the player's turn, move, and whether the move is valid
     public string PlayerTurn;
     public string playerMove;
     public bool validMove = false;
-
+    // Gets the player's move
     public int GetPlayerMove(string player)
     {
         Console.WriteLine($"Player {player}'s turn" );
@@ -89,3 +104,35 @@ class PlayerMoves
     }
 }
 
+class CheckWinner
+{
+    public static string CheckWin(string[,] board)
+    {
+        // Check for horizontal win
+        for (int i = 0; i < 3; i++)
+        {
+            if (GameBoard.board[i, 0] == GameBoard.board[i, 1] && GameBoard.board[i, 1] == GameBoard.board[i, 2])
+            {
+                return GameBoard.board[i, 0];
+            }
+        }
+        // Check for vertical win
+        for (int i = 0; i < 3; i++)
+        {
+            if (GameBoard.board[0, i] == GameBoard.board[1, i] && GameBoard.board[1, i] == GameBoard.board[2, i])
+            {
+                return GameBoard.board[0, i];
+            }
+        }
+        // Check for diagonal win
+        if (GameBoard.board[0, 0] == GameBoard.board[1, 1] && GameBoard.board[1, 1] == GameBoard.board[2, 2])
+        {
+            return GameBoard.board[0, 0];
+        }
+        if (GameBoard.board[0, 2] == GameBoard.board[1, 1] && GameBoard.board[1, 1] == GameBoard.board[2, 0])
+        {
+            return GameBoard.board[0, 2];
+        }
+        return null;
+    }
+}
