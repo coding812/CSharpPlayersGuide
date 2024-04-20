@@ -1,7 +1,6 @@
 ﻿Console.Title = "Tic-Tac-Toe";
 Console.Clear();
 
-
 GameBoard game = new GameBoard();
 game.DrawBoard();
 string Winner;
@@ -10,20 +9,21 @@ do
 {
     PlayerInput player = new PlayerInput();
 
+    // Calls the GetPlayerMove method from the PlayerInput class and passes the player's turn as an argument
+    // the method returns the player's move and assigns it to the playerMove variable
+    // the playerMove variable is then passed as an argument to the updateBoard method from the GameBoard class
     game.updateBoard(player.GetPlayerMove(player.PlayerTurn = "X"), player.PlayerTurn);
     Winner = CheckWinner.CheckWin(GameBoard.board);
     if (Winner != null)
     {
         break;
     }
-
     game.updateBoard(player.GetPlayerMove(player.PlayerTurn = "O"), player.PlayerTurn);
     Winner = CheckWinner.CheckWin(GameBoard.board);
 }
 while (Winner == null);
 
 Console.WriteLine($"Player {Winner} wins!");
-
 
 class GameBoard
 {
