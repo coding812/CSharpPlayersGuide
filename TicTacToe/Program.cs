@@ -2,7 +2,7 @@
 Console.Clear();
 
 GameBoard game = new GameBoard();
-game.DrawBoard();
+GameBoard.DrawBoard();
 string Winner;
 
 do
@@ -35,7 +35,7 @@ class GameBoard
         {"7", "8", "9"}
     };
     // Draws the game board
-    public void DrawBoard()
+    public static void DrawBoard()
     {
         Console.Clear();
         Console.WriteLine("         |     |      ");
@@ -92,14 +92,19 @@ class GameBoard
 class PlayerInput
 {
     // Declares variables to store the player's turn, move, and whether the move is valid
-    public string PlayerTurn;
-    public string playerMove;
+    public string? PlayerTurn;
+    public string? playerMove;
     public bool validMove = false;
     // Gets the player's move
     public int GetPlayerMove(string player)
     {
         Console.WriteLine($"Player {player}'s turn" );
         playerMove = Console.ReadLine();
+        if (playerMove == "" || playerMove == null || int.Parse(playerMove) > 9 || int.Parse(playerMove) < 1)
+        {
+            Console.WriteLine("Invalid move. Please try again.");
+            return GetPlayerMove(player);
+        }
         return int.Parse(playerMove);
     }
 }
@@ -133,6 +138,6 @@ class CheckWinner
         {
             return GameBoard.board[0, 2];
         }
-        return null;
+        return null!;
     }
 }
