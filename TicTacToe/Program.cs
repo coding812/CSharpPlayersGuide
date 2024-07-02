@@ -16,7 +16,7 @@ do
     Winner = CheckWinner.CheckWin(GameBoard.board);
     if (Winner != null)
     {
-        break;
+        continue;
     }
     game.updateBoard(player.GetPlayerMove(player.PlayerTurn = "O"), player.PlayerTurn);
     Winner = CheckWinner.CheckWin(GameBoard.board);
@@ -139,5 +139,38 @@ class CheckWinner
             return GameBoard.board[0, 2];
         }
         return null!;
+    }
+
+    class CheckValidMove 
+    {
+        public static string IsValidMove(string playerMove)
+        {
+            // Check for horizontal win
+            for (int i = 0; i < 3; i++)
+            {
+                if (GameBoard.board[i, 0] == GameBoard.board[i, 1] && GameBoard.board[i, 1] == GameBoard.board[i, 2])
+                {
+                    return GameBoard.board[i, 0];
+                }
+            }
+            // Check for vertical win
+            for (int i = 0; i < 3; i++)
+            {
+                if (GameBoard.board[0, i] == GameBoard.board[1, i] && GameBoard.board[1, i] == GameBoard.board[2, i])
+                {
+                    return GameBoard.board[0, i];
+                }
+            }
+            // Check for diagonal win
+            if (GameBoard.board[0, 0] == GameBoard.board[1, 1] && GameBoard.board[1, 1] == GameBoard.board[2, 2])
+            {
+                return GameBoard.board[0, 0];
+            }
+            if (GameBoard.board[0, 2] == GameBoard.board[1, 1] && GameBoard.board[1, 1] == GameBoard.board[2, 0])
+            {
+                return GameBoard.board[0, 2];
+            }
+            return null!;
+        }
     }
 }
