@@ -39,13 +39,13 @@ class GameBoard
     {
         Console.Clear();
         Console.WriteLine("         |     |      ");
-        Console.WriteLine("      {0}  |  {1}  |  {2}", board[0, 0], board[0, 1], board[0, 2]);
+        Console.WriteLine("      {0}  |  {1}  |  {2}", board[2, 0], board[2, 1], board[2, 2]);
         Console.WriteLine("    _____|_____|_____ ");
         Console.WriteLine("         |     |      ");
         Console.WriteLine("      {0}  |  {1}  |  {2}", board[1, 0], board[1, 1], board[1, 2]);
         Console.WriteLine("    _____|_____|_____ ");
         Console.WriteLine("         |     |      ");
-        Console.WriteLine("      {0}  |  {1}  |  {2}", board[2, 0], board[2, 1], board[2, 2]);
+        Console.WriteLine("      {0}  |  {1}  |  {2}", board[0, 0], board[0, 1], board[0, 2]);
         Console.WriteLine("         |     |      ");
         Console.WriteLine();
     }
@@ -105,6 +105,7 @@ class PlayerInput
             Console.WriteLine("Invalid move. Please try again.");
             return GetPlayerMove(player);
         }
+        
         return int.Parse(playerMove);
     }
 }
