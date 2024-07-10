@@ -1,6 +1,15 @@
-﻿Console.Title = "Packing Inventory";
+﻿using System.Diagnostics;
+
+Console.Title = "Packing Inventory";
 Console.Clear();
 
+Pack pack = new Pack(10, 10, 10);
+
+void PackingMethod() 
+{
+    Console.WriteLine("What would you like to add to your pack? ");
+    
+}
 public class Pack
 {
     public InventoryItem[] Items {get; set;}
@@ -27,7 +36,6 @@ public class Pack
         {
             currentVolume += item.Volume;
             currentWeight += item.Weight;
-            
         }
 
         if (currentWeight + item.Weight > MaxWeight ||
@@ -65,30 +73,12 @@ public class InventoryItem
     
 }
 
-public class Arrow : InventoryItem
-{
-    public Arrow() : base(0.1, 0.05){}
-}
-public class Bow : InventoryItem
-{
-    public Bow() : base(1.0, 4.0){}
-}
-public class Rope : InventoryItem
-{
-    public Rope() : base(1.0, 1.5){}
-}
-public class Water : InventoryItem
-{
-    public Water() : base(2.0, 3.0){} 
-}
-public class Food : InventoryItem
-{
-    public Food() : base(1.0, .5){}
-}
-public class Sword : InventoryItem
-{
-    public Sword() : base(5.0, 3.0){}
-}
+public class Arrow : InventoryItem { public Arrow() : base(0.1, 0.05) { } }
+public class Bow : InventoryItem { public Bow() : base(1.0, 4.0) { } }
+public class Rope : InventoryItem { public Rope() : base(1.0, 1.5) { } }
+public class Water : InventoryItem { public Water() : base(2.0, 3.0) { } }
+public class Food : InventoryItem { public Food() : base(1.0, .5) { } }
+public class Sword : InventoryItem { public Sword() : base(5.0, 3.0) { } }
 
 
 
