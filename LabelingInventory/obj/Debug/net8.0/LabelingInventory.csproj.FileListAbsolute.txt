@@ -1,0 +1,15 @@
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\bin\Debug\net8.0\LabelingInventory.exe
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\bin\Debug\net8.0\LabelingInventory.deps.json
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\bin\Debug\net8.0\LabelingInventory.runtimeconfig.json
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\bin\Debug\net8.0\LabelingInventory.dll
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\bin\Debug\net8.0\LabelingInventory.pdb
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.AssemblyInfoInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.AssemblyInfo.cs
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.csproj.CoreCompileInputs.cache
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.sourcelink.json
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.dll
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\obj\Debug\net8.0\refint\LabelingInventory.dll
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.pdb
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.genruntimeconfig.cache
+C:\Users\codin\source\CSharpPlayersGuide\LabelingInventory\obj\Debug\net8.0\ref\LabelingInventory.dll
