@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThePoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66859f914bf662f795190a74ed55f325dec90ef8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26ec055f4a808feef877f359c8528d11cbb05190")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThePoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThePoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
